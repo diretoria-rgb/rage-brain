@@ -18,22 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2674615748fb9b4e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b0d8fa994f3ced5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -166,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md",
+                "file": "teste 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de teste 2"
             }
           }
         ]
@@ -190,13 +174,15 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
+    "teste 2.md",
+    "teste.md",
     "Second Brain.md",
-    "Sem título.md",
     "Sem título",
     "Bem-vindo.md"
   ]
