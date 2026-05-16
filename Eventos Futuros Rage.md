@@ -1,9 +1,6 @@
 
-**
-
 Evento presencial
 
-  
 
 Evento presencial, com loja Pop Up.
 
@@ -44,5 +41,3 @@ Criar uma página no site da marca dedicada ao evento, com contagem regressiva e
 Oferecer um brinde para quem se inscrever, como uma patch exclusivo do evento e oferecer ingressos ou descontos especiais em academias e centros de crossfit parceiros para aumentar o alcance e atrair mais participantes.
 
 O objetivo principal é fortalecer o relacionamento com a comunidade, criando uma experiência positiva e memorável com a marca. Ao engajar a rede de contatos pessoais e aproveitar as plataformas locais, a marca pode conquistar mais seguidores, aumentar o reconhecimento e estimular o público a se tornar cliente e defensor da marca.
-
-**
