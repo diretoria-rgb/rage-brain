@@ -11,10 +11,14 @@
             "id": "6ed8606091308218",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Eventos Futuros Rage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Eventos Futuros Rage"
             }
           }
         ]
@@ -178,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "6ed8606091308218",
   "lastOpenFiles": [
+    "Eventos Futuros Rage.md",
     "teste 2.md",
     "teste.md",
     "Second Brain.md",
