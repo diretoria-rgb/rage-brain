@@ -50,3 +50,14 @@ Treino - Nylon WR Ripstop - Bravo - Shorts treino - GEAR - TR13//BV
 Treino - Nylon WR Ripstop - Rifte - Shorts treino - GEAR - TR13//RT	
 Unload - Moletom 3 Cabos - Égide - Moletom capuz - GEAR - UN41//EG
 
+Cores Utilizadas até agora				
+Empresa	Tecido		Nome da Cor	Cor
+Soul	Fresh		Castor	(marrom)
+Soul	Screen		Verde Musgo	(verde)
+Soul 	Leve		Preto	(preto)
+Adama	Fluit		Vinho	(vinho)
+Adar	Hydro Nylon U S UV50+		Avocado	(verde)
+Adar	Hydro Nylon U S UV50+		Colmeia	(marrom)
+Adar	Rip Stop Nylon UV50+		Preto	(preto)
+Aradefe	Moletom 3 Cabos Peluciado		Verde Murano	(verde azul)
+Aradefe	Moletom 3 Cabos Peluciado		Cacau	(marrom)
