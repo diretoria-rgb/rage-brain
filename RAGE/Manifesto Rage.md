@@ -1,0 +1,24 @@
+A Rage existe para trazer qualidade, performance e um estilo único às roupas de treino. 
+Criamos roupas que unem funcionalidade e estética, para pessoas que exigem o melhor.
+Treinar é mais do que um esforço físico. É um processo de crescimento pessoal.
+Não estamos falando em bater metas todos os dias nem estar constantemente no limite. 
+Porque a evolução não é linear.
+A evolução do corpo reflete a evolução da mente. Ser atleta Rage significa estar conectado com seu corpo, entregando o melhor para ele para que tenha o melhor de volta. 
+Corpo, mente e espírito. 
+Superar é nossa busca.
+Nossas peças são pensadas e testadas por quem treina. Cada tecido, tamanho, costura, modelagem e cor são planejados para garantir funcionalidade e estética refinada.
+Cada detalhe existe para potencializar a performance. Não há espaço para excessos. 
+Nenhuma linha, corte ou comprimento é supérfluo.
+Não buscamos chamar atenção com estampas exageradas ou cores vibrantes. Buscamos excelência. 
+Criamos roupas para aqueles que valorizam seus treinos, compreendem a importância dos equipamentos certos e sabem que a vestimenta pode ser uma aliada na busca por resultados.
+A Rage se preocupa em inspirar atletas a se manterem firmes em seus objetivos, a treinarem com propósito, a cultivarem hábitos que fortalecem corpo e mente.
+Queremos ser referência para aqueles que buscam o melhor para si, mais saúde, mais força, mais evolução. Usamos nossas redes sociais e eventos para conectar e motivar essa comunidade.
+
+
+Nosso objetivo inicial é sermos reconhecidos como referência em qualidade, apoiando atletas e treinadores da nossa região.
+Com o tempo, expandiremos essa mentalidade, formando uma rede de pessoas comprometidas com a própria evolução, indo além do físico.
+Vamos unir tecidos tecnológicos e performance esportiva sem abrir mão da estética funcional e elegante.
+Tudo o que criamos é testado e pensado para o esporte ao qual se destina. Não seguimos modismos, não buscamos atenção desnecessária.
+Queremos performance. Fazemos a ação e inspiramos pelo exemplo.
+Seremos lembrados como a marca que começou do zero e construiu uma comunidade de atletas que vestem propósito.
+Temos um espírito de superação e uma busca incansável pela evolução. Podemos não vencer sempre, mas nunca recuamos.
