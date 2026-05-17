@@ -11,10 +11,14 @@
             "id": "d828f52d0800e623",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sem título"
             }
           }
         ]
@@ -178,12 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "d828f52d0800e623",
   "lastOpenFiles": [
+    "Sem título.md",
     "Estratégia para venda de peças piloto.md",
     "Sem título.canvas",
     "Rage Performance.md",
-    "Sem título.md",
     "Análise de perfil de marca.md",
     "Estratégia para venda de estoque parado.md",
     "Eventos Futuros Rage.md",
