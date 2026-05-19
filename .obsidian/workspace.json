@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ace0124dce350356",
+        "id": "d90ea631781b978d",
         "type": "tabs",
         "children": [
           {
-            "id": "ae293bb099ac16ee",
+            "id": "1ba386d79a652927",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parceiros Rage.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Parceiros Rage"
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,9 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae293bb099ac16ee",
+  "active": "1ba386d79a652927",
   "lastOpenFiles": [
-    "Parceiros Rage.md",
+    "RAGE/Parceiros Rage.md",
     "RAGE/Nomes das peças, Etiquetas, Tecidos.md",
     "RAGE/Marketing.md",
     "RAGE",
