@@ -9,5 +9,5 @@ Shorts
 - Modelos:
 Bravo - 6 P, 12 M, 12 G, 6 GG
 Rifte - 6 P, 12 M, 12 G, 6 GG
-- Corte - R$ 150,00
+- Corte - R$ 180,00
 - Costureira - 
