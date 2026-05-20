@@ -11,10 +11,14 @@
             "id": "80c77301be281b00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAGE/Nomes das peças, Etiquetas, Tecidos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Nomes das peças, Etiquetas, Tecidos"
             }
           }
         ]
@@ -180,6 +184,8 @@
   },
   "active": "80c77301be281b00",
   "lastOpenFiles": [
+    "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
+    "RAGE/Rage Performance.md",
     "RAGE/Gastos - coleção preta - Camisetas.md",
     "RAGE/Gastos - coleção preta - Shorts.md",
     "RAGE/Parceiros Rage.md",
@@ -187,13 +193,11 @@
     "RAGE/Marketing.md",
     "RAGE",
     "RAGE/Manifesto Rage.md",
-    "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
     "RAGE/Acessórios Rage (futuro).md",
     "RAGE/Ideia de Embalagem.md",
     "RAGE/Modelagem, roupas, drops.md",
     "RAGE/Estratégia para venda de peças piloto.md",
     "Sem título.canvas",
-    "RAGE/Rage Performance.md",
     "RAGE/Análise de perfil de marca.md",
     "RAGE/Estratégia para venda de estoque parado.md",
     "RAGE/Eventos Futuros Rage.md",
