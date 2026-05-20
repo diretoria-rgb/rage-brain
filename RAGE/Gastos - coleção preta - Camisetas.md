@@ -12,4 +12,4 @@ Malleus - 20/ Velite - 26/ Scudo - 26
 Malleus - R$ 186,40
 Velite - R$ 337,80
 Scudo - R$ 225,00
-- Costureira - R$ 1548,00
+- Costureira - R$ 864,00 + R$ 20,00 retirada pelo moto uber
