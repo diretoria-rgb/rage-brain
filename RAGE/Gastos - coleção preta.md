@@ -5,9 +5,9 @@ Shorts
 - Cor - preto
 - Quantidade tecido no rolo - 15,9 kg
 - Preço do rolo - R$ 1058,10
-- Produzido - 60 unidades
+- Produzido - 72 unidades
 - Modelos:
-Bravo - 5 P, 10 M, 10 G, 5 GG
-Rifte - 5 P, 10 M, 10 G, 5 GG
+Bravo - 6 P, 12 M, 12 G, 6 GG
+Rifte - 6 P, 12 M, 12 G, 6 GG
 - Corte - R$ 150,00
 - Costureira - 
