@@ -10,4 +10,6 @@ Shorts
 Bravo - 6 P, 12 M, 12 G, 6 GG
 Rifte - 6 P, 12 M, 12 G, 6 GG
 - Corte - R$ 180,00
-- Costureira - 
+- Estampa - 
+- Costureira - R$ 1548,00
+- 
