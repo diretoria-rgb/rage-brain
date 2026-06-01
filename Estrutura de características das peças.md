@@ -51,24 +51,24 @@ Pré-treino, pós-treino e dia a dia.
 
 Identifica para qual tipo de atividade a peça foi projetada.
 
-### Lifting
+### Training Division
 
-Foco em força.
+Foco em treinos de força, pesos e alta intensidade.
 
-Características:
+Características da peça:
 
-- Resistência
-- Estrutura
+- Resistente
+- Estruturada
 - Durabilidade
 - Estabilidade
 
 Modalidades:
 
-- Musculação
+- Crossfit
 - Powerlifting
 - Strongman
 - Weightlifting
-- Treinos focados em força
+- Functional Bodybuilding
 
 Produtos atuais:
 
@@ -77,7 +77,7 @@ Produtos atuais:
 
 ---
 
-### Conditioning Division
+### ConditioningClub
 
 Foco em movimento.
 
