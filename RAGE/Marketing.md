@@ -4,7 +4,8 @@ Slogan:
 
 Setores:
 - Training Division
-- Lifting Club
+- Lifting Dept
+- Conditioning Club
 - Running Dept
 
 Tipos de roupas:
