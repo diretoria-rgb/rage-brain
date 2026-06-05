@@ -77,7 +77,7 @@ Produtos atuais:
 
 ---
 
-### ConditioningClub
+### Conditioning Club
 
 Foco em movimento.
 

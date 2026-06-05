@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df2c12a32e123956",
+        "id": "afe395f871dd38a6",
         "type": "tabs",
         "children": [
           {
-            "id": "87b25c39dde8be5f",
+            "id": "3f0ec94445a13681",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,10 +182,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "3f0ec94445a13681",
   "lastOpenFiles": [
-    "RAGE/Parceiros Rage.md",
+    "RAGE/Modelagem, roupas, drops.md",
+    "Sem título.canvas",
+    "RAGE/Rage Performance.md",
+    "RAGE/Acessórios Rage (futuro).md",
     "RAGE/Estrutura de características das peças.md",
+    "RAGE/Parceiros Rage.md",
     "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
     "RAGE/Marketing.md",
     "RAGE/Manifesto Rage.md",
@@ -195,14 +199,10 @@
     "RAGE/Estratégia para venda de peças piloto.md",
     "RAGE/Estratégia para venda de estoque parado.md",
     "RAGE/Análise de perfil de marca.md",
-    "RAGE/Acessórios Rage (futuro).md",
     "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
     "RAGE/Nomes das peças, Etiquetas, Tecidos.md",
-    "RAGE/Rage Performance.md",
     "RAGE/Gastos - coleção preta - Shorts.md",
     "RAGE",
-    "RAGE/Modelagem, roupas, drops.md",
-    "Sem título.canvas",
     "teste 2.md",
     "teste.md",
     "Second Brain.md",
