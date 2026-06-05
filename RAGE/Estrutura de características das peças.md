@@ -53,7 +53,7 @@ Identifica para qual tipo de atividade a peça foi projetada.
 
 ### Training Division
 
-Foco em treinos de força, pesos e alta intensidade.
+Foco em resistência.
 
 Características da peça:
 
@@ -79,7 +79,7 @@ Produtos atuais:
 
 ### Conditioning Club
 
-Foco em movimento.
+Foco em funcionalidade.
 
 Características:
 
@@ -116,7 +116,7 @@ Características:
 
 Modalidades:
 
-- Qualquer treino
+- Nenhuma modalidade de treino
 - Uso casual
 - Pré e pós treino
 
@@ -133,7 +133,7 @@ Produtos atuais:
 
 ### Divisão
 
-Lifting Division
+Training Divsion
 
 ### Categoria
 
@@ -170,7 +170,7 @@ Resistência
 
 ### Divisão
 
-Conditioning Division
+Conditioning Club
 
 ### Categoria
 
@@ -203,7 +203,7 @@ Movimento
 
 ### Divisão
 
-Essential Division
+Essentials
 
 ### Categoria
 
