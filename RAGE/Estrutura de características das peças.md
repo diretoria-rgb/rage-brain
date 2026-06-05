@@ -103,7 +103,7 @@ Produtos atuais:
 
 ---
 
-### Essential Division
+### Essentials
 
 Foco em versatilidade.
 
@@ -273,7 +273,7 @@ Confiabilidade
 
 ### Divisão
 
-Conditioning Division
+Conditioning Club
 
 ### Categoria
 
@@ -306,7 +306,7 @@ Agilidade
 
 ### Divisão
 
-Lifting Division
+Training Division
 
 ### Categoria
 
@@ -373,7 +373,7 @@ Novo padrão recomendado:
 
 SCUDO
 
-LIFTING DIVISION
+TRAINING DIVISION
 
 MATERIAL  
 90% PA 10% PUE
@@ -385,7 +385,7 @@ TREINOS DE FORÇA
 
 VELITE
 
-CONDITIONING DIVISION
+CONDITIONING CLUB
 
 MATERIAL  
 90% PA 10% PUE
@@ -397,7 +397,7 @@ CONDICIONAMENTO E CORRIDA
 
 SENTINEL
 
-ESSENTIAL DIVISION
+ESSENTIALS
 
 MATERIAL  
 90% PA 10% PUE
@@ -413,9 +413,9 @@ Toda nova peça deve responder a quatro perguntas:
 
 ### Qual divisão ela pertence?
 
-- Lifting
-- Conditioning
-- Essential
+- Training Division
+- Conditioning Club
+- Essentials
 
 ### Qual problema resolve?
 

@@ -11,14 +11,17 @@
             "id": "3f0ec94445a13681",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RAGE/Estrutura de características das peças.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 59.781841475820784,
+                  "y": -108.84706151077805,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Estrutura de características das peças"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -184,11 +187,11 @@
   },
   "active": "3f0ec94445a13681",
   "lastOpenFiles": [
-    "RAGE/Modelagem, roupas, drops.md",
     "Sem título.canvas",
+    "RAGE/Estrutura de características das peças.md",
+    "RAGE/Modelagem, roupas, drops.md",
     "RAGE/Rage Performance.md",
     "RAGE/Acessórios Rage (futuro).md",
-    "RAGE/Estrutura de características das peças.md",
     "RAGE/Parceiros Rage.md",
     "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
     "RAGE/Marketing.md",
