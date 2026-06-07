@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"74b5e32fa03dc175","x":-357,"y":-35,"width":400,"height":400,"type":"file","file":"Quem é a Rage/CRENÇAS FUNDAMENTAIS DA RAGE.md"},
+		{"id":"05b73554947df3f0","x":-357,"y":-680,"width":400,"height":400,"type":"file","file":"Quem é a Rage/CONSTITUIÇÃO DA RAGE.md"},
+		{"id":"0d2280cdcfb72a74","x":-896,"y":526,"width":400,"height":400,"type":"file","file":"Quem é a Rage/O QUE A RAGE DEFENDE.md"},
+		{"id":"4750934b487afec6","x":364,"y":60,"width":400,"height":400,"type":"file","file":"Quem é a Rage/TOM DE VOZ DA RAGE.md"},
+		{"id":"1c978658837a5080","x":-157,"y":760,"width":400,"height":400,"type":"file","file":"Quem é a Rage/OS INIMIGOS DA RAGE.md"}
+	],
+	"edges":[
+		{"id":"26d13930ce32735d","fromNode":"05b73554947df3f0","fromSide":"bottom","toNode":"74b5e32fa03dc175","toSide":"top"},
+		{"id":"bf6415855290d828","fromNode":"74b5e32fa03dc175","fromSide":"left","toNode":"0d2280cdcfb72a74","toSide":"top"},
+		{"id":"9774f52c83727400","fromNode":"74b5e32fa03dc175","fromSide":"right","toNode":"4750934b487afec6","toSide":"left"},
+		{"id":"8f87610ae5260259","fromNode":"0d2280cdcfb72a74","fromSide":"right","toNode":"1c978658837a5080","toSide":"left"}
+	]
+}
