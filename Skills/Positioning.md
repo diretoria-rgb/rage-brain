@@ -5,6 +5,22 @@
 
 ---
 
+## PALAVRA CENTRAL DA RAGE
+
+**Evolução** — mas não no sentido genérico de crescimento ou melhoria.
+
+A Rage define Evolução como **conquista de quem não para**. É o resultado inevitável de quem escolheu o processo, manteve a disciplina e respeitou o tempo necessário.
+
+Essa definição opera como filtro: exclui quem busca transformação rápida, resultado sem processo e motivação sem motivo. Inclui exatamente quem é a Pessoa Rage.
+
+A distinção estratégica fundamental: outras marcas usam evolução como **promessa de resultado** ("use isso e evolua"). A Rage usa evolução como **identidade de processo** — pertence a quem já escolheu o caminho, não a quem quer chegar no destino sem percorrê-lo.
+
+Em vez de "use Rage e evolua", a mensagem implícita é: **se você já escolheu evoluir, a Rage é sua marca.**
+
+> Decisão registrada pelo fundador em junho de 2026.
+
+---
+
 ## CONCEITOS PRINCIPAIS
 
 ### 1. Posicionamento é uma batalha pela mente — não pelo mercado
@@ -23,15 +39,9 @@ A marca mais poderosa é aquela que possui uma palavra na mente do cliente. Apen
 
 Exemplos clássicos: Volvo = segurança. FedEx = entrega. Nike = performance atlética de elite.
 
-Para a Rage, a pergunta permanente é: **qual é a palavra da Rage?**
+**A palavra da Rage é Evolução** — na versão específica definida acima. A palavra não precisa ser inédita; precisa ser *sua* na mente do público certo. Volvo não inventou a palavra segurança. Foi a primeira marca a possuí-la naquele território.
 
-Candidatas consistentes com a Constituição:
-- *Disciplina*
-- *Evolução*
-- *Processo*
-- *Seriedade* (no sentido de levar a si mesmo a sério)
-
-A Rage ainda não escolheu explicitamente. Escolher e defender essa palavra é uma das decisões estratégicas mais importantes que a marca pode tomar.
+O trabalho agora é defender e aprofundar esse território consistentemente — em produto, comunicação, seleção de parceiros e comportamento público da marca.
 
 ---
 
@@ -41,7 +51,7 @@ Ries & Trout afirmam que é melhor ser primeiro em uma categoria nova do que mel
 
 A Rage não precisa competir com Adidas, Nike ou Under Armour no território de "roupa esportiva". Precisa **definir um território onde seja a referência**.
 
-Território possível: *Technical Sportswear para pessoas que decidiram levar a si mesmas a sério.*
+Território: *Technical Sportswear para quem escolheu evoluir pelo processo — não pelo resultado imediato.*
 
 Isso não é um slogan. É uma definição de categoria. Uma categoria onde a Rage é, por definição, a marca fundadora.
 
@@ -51,7 +61,9 @@ Isso não é um slogan. É uma definição de categoria. Uma categoria onde a Ra
 
 Se um concorrente já ocupa um território na mente do cliente, tentar ocupar o mesmo território é uma batalha perdida antes de começar.
 
-Implicação para a Rage: o território escolhido deve ser **genuinamente desocupado** na percepção do público-alvo. E deve ser **ativamente defendido** — não abandonado quando surgir pressão por crescimento rápido.
+A Rage não disputa a versão genérica de "evolução" com o mercado. Disputa a versão específica: evolução como processo consistente, não como promessa de transformação. Esse recorte é defensável porque poucas marcas têm identidade suficientemente forte para sustentá-lo.
+
+O território precisa ser **ativamente defendido** — não abandonado quando surgir pressão por crescimento rápido.
 
 ---
 
@@ -59,7 +71,7 @@ Implicação para a Rage: o território escolhido deve ser **genuinamente desocu
 
 Ries & Trout afirmam que toda marca forte sacrifica algo: linha de produtos, público-alvo ou mudança constante de posicionamento.
 
-A Rage já pratica esse princípio pela Constituição (Artigo 8 e 11). A marca **recusa** se tornar generalista. Isso não é uma limitação — é a fonte do posicionamento.
+A Rage já pratica esse princípio pela Constituição (Artigos 8 e 11). A marca **recusa** se tornar generalista. Isso não é uma limitação — é a fonte do posicionamento.
 
 O sacrifício da Rage é claro:
 - Não serve a quem escolhe apenas pelo menor preço
@@ -114,7 +126,7 @@ Para a Rage em estágio atual: **profundidade antes de amplitude**. Dominar o po
 
 Uma marca de nicho sobrevive e cresce pela **autenticidade de sua identidade** — não pela sofisticação de suas campanhas.
 
-A Pessoa Rage detecta incoerência. Uma campanha elaborada sobre disciplina, produzida por uma marca que faz concessões de posicionamento para crescer, gera desconfiança.
+A Pessoa Rage detecta incoerência. Uma campanha elaborada sobre evolução e processo, produzida por uma marca que faz concessões de posicionamento para crescer, gera desconfiança.
 
 Coerência entre o que a marca diz e o que ela faz é o ativo de longo prazo mais valioso da Rage.
 
@@ -123,16 +135,16 @@ Coerência entre o que a marca diz e o que ela faz é o ativo de longo prazo mai
 ## APLICAÇÕES PARA A RAGE
 
 ### Decisão de posicionamento de categoria
-Antes de lançar qualquer produto, coleção ou campanha, perguntar: *Isso reforça a categoria que a Rage fundou, ou começa a nos mover em direção ao território do mainstream?*
+Antes de lançar qualquer produto, coleção ou campanha, perguntar: *Isso comunica evolução pelo processo, ou está prometendo resultado fácil para ampliar o público?*
 
 ### Seleção de atletas e parceiros
-A Lei da Exclusividade se aplica aqui. Atletas e parceiros que representam múltiplas marcas de posicionamento conflitante diluem a percepção. Preferir parceiros que existam **dentro** do território da Rage — não apenas na modalidade esportiva, mas na mentalidade.
+A Lei da Exclusividade se aplica aqui. Atletas e parceiros que representam múltiplas marcas de posicionamento conflitante diluem a percepção. Preferir parceiros cuja trajetória comunique evolução consistente — não resultado espetacular sem contexto de processo.
 
 ### Desenvolvimento de produto
 A Lei do Foco implica que cada peça deve ser avaliada pela pergunta: *Isso é Rage, ou isso é uma concessão para alcançar mais pessoas?* Peças que não têm resposta clara para essa pergunta precisam de revisão antes de serem lançadas.
 
 ### Comunicação
-A palavra central da Rage deve aparecer — explicitamente ou na forma como o conteúdo é construído — em toda comunicação. Se o conteúdo puder ser publicado por qualquer outra marca de sportswear sem parecer fora de lugar, ele não está posicionado.
+O conceito de Evolução como processo deve aparecer — explicitamente ou na estrutura do conteúdo — em toda comunicação. Se o conteúdo puder ser publicado por qualquer outra marca de sportswear sem parecer fora de lugar, ele não está posicionado.
 
 ### Expansão de linha
 Antes de qualquer expansão (novo produto, nova categoria, novo público): aplicar a Lei do Sacrifício. O que será sacrificado? Se a resposta for "o posicionamento", a expansão deve ser recusada ou redesenhada.
@@ -180,6 +192,16 @@ A Rage não combate concorrentes. Combate mentalidades (como descrito nos Inimig
 
 ---
 
+### ⚠️ Evolução como destino vs. Evolução como forma de viver
+
+O maior risco específico da palavra escolhida: ser interpretada — interna ou externamente — como promessa de chegada.
+
+A Rage não promete que você vai chegar. A Rage acompanha quem já está no caminho.
+
+Toda vez que a comunicação soar como "use Rage e evolua", o posicionamento está sendo corroído. A pergunta de revisão é sempre: *isso fala para quem já escolheu evoluir, ou para quem ainda está considerando se vai tentar?*
+
+---
+
 ## ERROS COMUNS
 
 **Erro 1: Tentar ser tudo para o cliente Rage**
@@ -211,8 +233,8 @@ Use este checklist antes de qualquer decisão relevante de posicionamento (produ
 - [ ] Ou me move em direção ao mainstream para crescer?
 
 ### Critério 2 — Palavra central
-- [ ] Esta decisão reforça a palavra/conceito central da Rage?
-- [ ] Um observador externo conseguiria identificar que isso é Rage?
+- [ ] Esta decisão comunica Evolução como processo consistente?
+- [ ] Ou promete resultado sem exigir o processo?
 
 ### Critério 3 — Sacrifício
 - [ ] O que estou sacrificando com essa decisão?
@@ -255,7 +277,8 @@ Os seguintes conceitos de Ries & Trout foram **excluídos** por incompatibilidad
 
 ---
 
-*Documento criado em: {{date}}*
+*Documento criado em: junho de 2026*
+*Última atualização: junho de 2026 — Palavra central definida pelo fundador: Evolução (como processo consistente)*
 *Fonte primária: Positioning — The Battle for Your Mind (Al Ries & Jack Trout)*
 *Filtro aplicado: Constituição da Rage, Crenças Fundamentais da Rage, OS Inimigos da Rage*
 *Relacionado: [[CONSTITUIÇÃO DA RAGE]] | [[CRENÇAS FUNDAMENTAIS DA RAGE]] | [[OS INIMIGOS DA RAGE]]*
