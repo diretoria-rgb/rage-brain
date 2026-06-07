@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afe395f871dd38a6",
+        "id": "c7cca4b83c26cb3f",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0ec94445a13681",
+            "id": "792e07939f2ed732",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": 420.8376999118311,
-                  "y": -228.80772520585992,
-                  "zoom": -0.9286925474395444
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -185,9 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f0ec94445a13681",
+  "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
-    "Sem título.canvas",
+    "Estrutura peças, análises e preços.canvas",
     "RAGE/Estratégia para venda de estoque parado.md",
     "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
     "RAGE/Acessórios Rage (futuro).md",
