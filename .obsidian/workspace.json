@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c7cca4b83c26cb3f",
+        "id": "bca73d3f2fbed3dd",
         "type": "tabs",
         "children": [
           {
-            "id": "792e07939f2ed732",
+            "id": "c4b3f909924e8aa8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -178,11 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "792e07939f2ed732",
+  "active": "c4b3f909924e8aa8",
   "lastOpenFiles": [
-    "Sistema Claude + Obsidian.md",
-    "Estrutura peças, análises e preços.canvas",
     "RAGE/Estratégia para venda de estoque parado.md",
+    "Estrutura peças, análises e preços.canvas",
+    "Sistema Claude + Obsidian.md",
     "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
     "RAGE/Acessórios Rage (futuro).md",
     "RAGE/Gastos - coleção preta - Camisetas.md",
