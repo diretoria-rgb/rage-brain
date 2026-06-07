@@ -1,4 +1,4 @@
-# Análise Financeira — Coleção Preta (maio 2026)
+
 
 > [!info] Contexto
 > Investimento iniciado em **agosto de 2025**. Vendas abertas em **março de 2026**.
