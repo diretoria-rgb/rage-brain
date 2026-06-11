@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac04b387b7317e8",
+        "id": "ec2afd78e7b6d763",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9f43d9f875f237",
+            "id": "09f2da3d6b2427b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAGE/Estrutura de características das peças.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Estrutura de características das peças"
             }
           }
         ]
@@ -178,38 +182,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c9f43d9f875f237",
+  "active": "09f2da3d6b2427b2",
   "lastOpenFiles": [
-    "Skills/Produto e Inovação.md",
+    "RAGE/Estrutura peças, análises e preços.canvas",
     "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
+    "RAGE/Roadmap da marca.canvas",
+    "RAGE/Nomes das peças, Etiquetas, Tecidos.md",
+    "RAGE/Modelagem, roupas, drops.md",
+    "RAGE/Ficha Técnica Rage - Coleções.pdf",
+    "Sistema Claude + Obsidian.md",
     "RAGE/Manifesto Rage.md",
+    "RAGE/Gastos - coleção preta - Camisetas.md",
+    "Sem título.md",
+    "RAGE/Fichas técnicas Rage.md",
+    "Skills/Produto e Inovação.md",
     "Skills/Comunidade e Movimento.md",
     "Skills/Arquétipos e Storytelling.md",
     "Skills/Branding.md",
     "Skills/Positioning.md",
     "Skills",
     "Quem é a Rage/PERSONALIDADE DA RAGE.md",
-    "RAGE/Roadmap da marca.canvas",
     "Quem é a Rage/TOM DE VOZ DA RAGE.md",
     "Quem é a Rage/OS INIMIGOS DA RAGE.md",
     "Quem é a Rage/O QUE A RAGE DEFENDE.md",
     "Quem é a Rage/CONSTITUIÇÃO DA RAGE.md",
     "Quem é a Rage/CRENÇAS FUNDAMENTAIS DA RAGE.md",
-    "Sistema Claude + Obsidian.md",
     "Quem é a Rage",
-    "RAGE/Estrutura peças, análises e preços.canvas",
     "RAGE/Estratégia para venda de estoque parado.md",
     "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
     "RAGE/Acessórios Rage (futuro).md",
-    "RAGE/Gastos - coleção preta - Camisetas.md",
     "RAGE/Estrutura de características das peças.md",
-    "RAGE/Modelagem, roupas, drops.md",
     "RAGE/Rage Performance.md",
     "RAGE/Parceiros Rage.md",
-    "RAGE/Marketing.md",
-    "RAGE/Ideia de Embalagem.md",
-    "RAGE/Eventos Futuros Rage.md",
-    "RAGE/Estratégia para venda de peças piloto.md",
     "RAGE"
   ]
 }
