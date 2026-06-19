@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30641a35494b4847",
+            "id": "08ea9c7241942871",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Customer Experience/02 - Customer Journey - descoberta.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02 - Customer Journey - descoberta"
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,8 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30641a35494b4847",
+  "active": "08ea9c7241942871",
   "lastOpenFiles": [
+    "Customer Experience/02 - Customer Journey - evolução.md",
+    "Customer Experience/02 - Customer Journey - equipamento.md",
+    "Customer Experience/02 - Customer Journey - descoberta.md",
     "Customer Experience/01 - CRM Architecture.md",
     "Rage Customer Database.md",
     "Customer Experience/09 - Future Ideas.md",
@@ -193,7 +192,6 @@
     "Customer Experience/05 - Calendar.md",
     "Customer Experience/04 - WhatsApp Flows.md",
     "Customer Experience/03 - Email Flows.md",
-    "Customer Experience/02 - Customer Journey - descoberta.md",
     "Customer Experience/00 - Regras.md",
     "Customer Experience",
     "RAGE/Estrutura de características das peças.md",
@@ -213,8 +211,6 @@
     "Skills/Branding.md",
     "Skills/Positioning.md",
     "Skills",
-    "Quem é a Rage/PERSONALIDADE DA RAGE.md",
-    "Quem é a Rage/TOM DE VOZ DA RAGE.md",
     "Quem é a Rage",
     "RAGE"
   ]
