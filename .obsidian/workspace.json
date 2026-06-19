@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23bfc3eefca8cb9e",
+            "id": "034248862e015fb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rage Customer Database.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rage Customer Database"
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,8 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "034248862e015fb0",
   "lastOpenFiles": [
+    "Customer Experience/03 - Email Flows 7 - campanhas.md",
+    "Rage Customer Database.md",
     "Customer Experience/03 - Email Flows 6 - representação.md",
     "Customer Experience/03 - Email Flows 5 - comunidade.md",
     "Customer Experience/03 - Email Flows 4 - crosselling.md",
@@ -197,7 +195,6 @@
     "Customer Experience/02 - Customer Journey - 2 (equipamento).md",
     "Customer Experience/02 - Customer Journey - 1 (descoberta).md",
     "Customer Experience/01 - CRM Architecture.md",
-    "Rage Customer Database.md",
     "Customer Experience/09 - Future Ideas.md",
     "Customer Experience/08 - Metrics.md",
     "Customer Experience/07 - Customer Learnings.md",
@@ -213,7 +210,6 @@
     "RAGE/Nomes das peças, Etiquetas, Tecidos.md",
     "RAGE/Modelagem, roupas, drops.md",
     "RAGE/Ficha Técnica Rage - Coleções.pdf",
-    "Sistema Claude + Obsidian.md",
     "Skills",
     "Quem é a Rage",
     "RAGE"
