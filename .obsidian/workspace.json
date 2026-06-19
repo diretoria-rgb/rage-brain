@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Customer Experience/00 - Regras.md",
+                "file": "Customer Experience/02 - Customer Journey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Regras"
+              "title": "02 - Customer Journey"
             }
           }
         ],
@@ -325,6 +325,7 @@
   },
   "active": "5466781836b7cd22",
   "lastOpenFiles": [
+    "Customer Experience/01 - CRM Architecture.md",
     "Customer Experience/00 - Regras.md",
     "Rage Customer Database.md",
     "Customer Experience/09 - Future Ideas.md",
@@ -335,7 +336,6 @@
     "Customer Experience/04 - WhatsApp Flows.md",
     "Customer Experience/03 - Email Flows.md",
     "Customer Experience/02 - Customer Journey.md",
-    "Customer Experience/01 - CRM Architecture.md",
     "Customer Experience",
     "RAGE/Estrutura de características das peças.md",
     "RAGE/Estrutura peças, análises e preços.canvas",
