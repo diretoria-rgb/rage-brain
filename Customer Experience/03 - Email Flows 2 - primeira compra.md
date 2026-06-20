@@ -25,9 +25,7 @@ O fluxo inicia quando o cliente realiza sua primeira compra.
 # Canais
 
 - Email
-    
-- WhatsApp
-    
+
 
 ---
 
@@ -69,11 +67,11 @@ Quando o pedido for enviado.
 
 ---
 
-## WhatsApp 01 — Seu pedido chegou?
+## Email 03 — Seu pedido chegou?
 
 **Envio**
 
-Entre 3 e 5 dias após a confirmação da entrega.
+Após confirmação de envio.
 
 **Objetivo**
 
@@ -86,11 +84,11 @@ Entre 3 e 5 dias após a confirmação da entrega.
 
 ---
 
-## Email 03 — Cuidados com seu equipamento
+## Email 04 — Cuidados com seu equipamento
 
 **Envio**
 
-2 dias após o WhatsApp 01.
+1 dia após o Email 03.
 
 **Objetivo**
 
@@ -103,11 +101,11 @@ Entre 3 e 5 dias após a confirmação da entrega.
 
 ---
 
-## Email 04 — Complete sua composição
+## Email 05 — Complete sua composição
 
 **Envio**
 
-7 dias após o Email 03.
+2 dias após o Email 04.
 
 **Objetivo**
 
@@ -125,11 +123,6 @@ Entre 3 e 5 dias após a confirmação da entrega.
 O fluxo é encerrado quando:
 
 - O cliente conclui todas as comunicações previstas.
-    
-
-ou
-
-- Realiza uma nova compra.
     
 
 Após isso, o cliente inicia o Flow 03 - Evolução.
