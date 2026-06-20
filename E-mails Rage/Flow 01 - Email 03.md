@@ -40,7 +40,7 @@ Por isso desenvolvemos peças para diferentes objetivos, sem abrir mão da mesma
 
 **Sentinel** para quem procura uma camiseta versátil.
 
-**Scudo** para quem prefere liberdade de movimento.
+**Velite** para quem prefere liberdade de movimento.
 
 **Bravo** para treinos intensos.
 
@@ -58,7 +58,7 @@ Escolher minha primeira peça.
 
 ### Destino do CTA
 
-Página principal da coleção.
+Página Loja.
 
 ---
 
@@ -87,4 +87,4 @@ A melhor escolha é aquela que faz você querer treinar novamente amanhã.
 
 ### Implementação
 
-O Lucius deverá solicitar as imagens dos produtos antes da montagem do email.
+O Lucius (Claude AI) deverá solicitar as imagens dos produtos antes da montagem do email.
