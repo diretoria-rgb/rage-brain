@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rage Email Components Library.md",
+                "file": "Rage Emails Systems/Rage Email Components Library.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,9 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84769ee17b75a32b",
+  "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
-    "Rage Email Components Library.md",
+    "Rage Emails Systems/Rage Email Components Library.md",
     "Rage Emails Systems/Rage Email Builder.md",
     "Rage Emails Systems/Rage Email Framework.md",
     "Rage Emails Systems/Rage CRM Playbook.md",
