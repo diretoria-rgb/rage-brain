@@ -51,7 +51,7 @@ O fluxo inicia após a conclusão do Flow 02 - Primeira Compra.
 
 **Envio**
 
-5 dias após o Email 01.
+2 dias após o Email 01.
 
 **Objetivo**
 
@@ -66,7 +66,7 @@ O fluxo inicia após a conclusão do Flow 02 - Primeira Compra.
 
 **Envio**
 
-5 dias após o Email 02.
+2 dias após o Email 02.
 
 **Objetivo**
 
@@ -81,7 +81,7 @@ O fluxo inicia após a conclusão do Flow 02 - Primeira Compra.
 
 **Envio**
 
-5 dias após o Email 03.
+2 dias após o Email 03.
 
 **Objetivo**
 
@@ -98,7 +98,7 @@ O fluxo inicia após a conclusão do Flow 02 - Primeira Compra.
 
 **Envio**
 
-5 dias após o Email 04.
+2 dias após o Email 04.
 
 **Objetivo**
 

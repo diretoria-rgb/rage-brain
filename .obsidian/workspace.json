@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Customer Experience/03 - Email Flows 3 - evolução.md",
+                "file": "E-mails Rage/Flow 01 - Email 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Email Flows 3 - evolução"
+              "title": "Flow 01 - Email 01"
+            }
+          },
+          {
+            "id": "0f02d56ca4a0808c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ]
@@ -184,7 +198,12 @@
   },
   "active": "7644ba615b0134e8",
   "lastOpenFiles": [
+    "Sem título.md",
     "E-mails Rage/Flow 01 - Email 01.md",
+    "Customer Experience/03 - Email Flows 7 - campanhas.md",
+    "Customer Experience/03 - Email Flows 6 - representação.md",
+    "Customer Experience/03 - Email Flows 5 - comunidade.md",
+    "Customer Experience/03 - Email Flows 4 - crosselling.md",
     "Customer Experience/03 - Email Flows 3 - evolução.md",
     "Customer Experience/03 - Email Flows 2 - primeira compra.md",
     "Customer Experience/03 - Email Flows 1 - boas vindas.md",
@@ -207,11 +226,6 @@
     "Customer Experience/09 - Future Ideas.md",
     "Customer Experience/08 - Metrics.md",
     "Customer Experience/07 - Customer Learnings.md",
-    "Customer Experience/06 - WhatsApp Flows.md",
-    "Customer Experience/05 - Calendar.md",
-    "Customer Experience/03 - Email Flows 7 - campanhas.md",
-    "Customer Experience/03 - Email Flows 6 - representação.md",
-    "Customer Experience/03 - Email Flows 5 - comunidade.md",
     "Customer Experience",
     "RAGE/Estrutura peças, análises e preços.canvas",
     "RAGE/Roadmap da marca.canvas",
