@@ -200,3 +200,38 @@ O Nuvem Marketing / Perfit não possui integração nativa com WhatsApp. O canal
 1. **Zapi ou WPPConnect** — integração via webhook externo disparado por evento de compra na Nuvemshop
 2. **Kommo CRM** — plataforma com WhatsApp nativo, pode receber leads via webhook e disparar mensagens automaticamente
 3. **Processo manual operacional** — equipe recebe notificação de primeira compra e envia WhatsApp manualmente (viável em baixo volume)
+
+
+## Limitação 03 — Perfit: Flow 03 (Evolução) sem implementação possível no plano atual
+
+**Data:** 20/06/2026  
+**Status:** Registrada — aguarda upgrade de plano
+
+**Diagnóstico:**  
+O Flow 03 requer dois recursos indisponíveis no plano atual:
+1. **Gatilho "conclusão de outra automação"** — não existe no Perfit. Impossível disparar o Flow 03 ao encerrar o Flow 02.
+2. **Sequência multi-step** — 5 emails previstos, todos bloqueados pelo plano atual.
+
+**Impacto:**  
+Flow 03 (Evolução) completamente inviável sem upgrade.
+
+**Ação necessária:**  
+Upgrade do plano Perfit/Nuvem Marketing — mesmo pré-requisito das Limitações 01 e 02.
+
+
+---
+
+# Mapeamento de Listas — Fase 03 (Flows Operacionais)
+
+**Data:** 20/06/2026
+
+| Flow | Lista no Perfit | Contatos | Uso |
+|------|----------------|----------|-----|
+| Flow 04 — Cross Selling | Compradores da Nuvemshop | 24 | Campanhas manuais de cross-sell segmentadas por histórico de compra |
+| Flow 05 — Comunidade | Eventos | 24 | Comunicações de eventos, desafios e ações da marca |
+| Flow 05 — Comunidade (base ampla) | Contatos da Nuvemshop | 58 | Convites gerais para ações comunitárias |
+| Flow 06 — Representação | Representação (criada 20/06/2026) | 0 | Seleção manual pela equipe Rage — clientes altamente engajados e parceiros |
+| Flow 07 — Campanhas | Contatos da Nuvemshop | 58 | Base principal para campanhas recorrentes, lançamentos e promoções |
+
+**Operação dos Flows 04-07:**
+Todos operam via Campanhas manuais no Perfit (menu "Campanhas"), sem automação. A equipe seleciona a lista correspondente ao enviar cada comunicação.
