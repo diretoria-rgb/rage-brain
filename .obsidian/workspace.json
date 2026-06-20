@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Customer Experience/05 - Calendar.md",
+                "file": "Customer Experience/08 - Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Calendar"
+              "title": "08 - Metrics"
             }
           }
         ]
@@ -184,11 +184,12 @@
   },
   "active": "034248862e015fb0",
   "lastOpenFiles": [
-    "Customer Experience/03 - Email Flows 1 - boas vindas.md",
-    "Customer Experience/05 - Calendar.md",
     "Customer Experience/04 - Lucius Tasks.md",
+    "Customer Experience/05 - Calendar.md",
     "Customer Experience/06 - WhatsApp Flows.md",
     "Customer Experience/07 - Customer Learnings.md",
+    "Customer Experience/08 - Metrics.md",
+    "Customer Experience/03 - Email Flows 1 - boas vindas.md",
     "Customer Experience/03 - Email Flows 7 - campanhas.md",
     "Rage Customer Database.md",
     "Customer Experience/03 - Email Flows 6 - representação.md",
@@ -204,7 +205,6 @@
     "Customer Experience/02 - Customer Journey - 1 (descoberta).md",
     "Customer Experience/01 - CRM Architecture.md",
     "Customer Experience/09 - Future Ideas.md",
-    "Customer Experience/08 - Metrics.md",
     "Customer Experience/00 - Regras.md",
     "Customer Experience",
     "RAGE/Estrutura de características das peças.md",
