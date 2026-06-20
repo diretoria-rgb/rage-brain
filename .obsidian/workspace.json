@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "678f708d2dfe7357",
+            "id": "84769ee17b75a32b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "Rage Email Components Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Rage Email Components Library"
             }
           }
         ]
@@ -182,10 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678f708d2dfe7357",
+  "active": "84769ee17b75a32b",
   "lastOpenFiles": [
-    "Sem título.md",
-    "Rage Emails Systems/Rage Email Design System.md",
+    "Rage Email Components Library.md",
+    "Rage Emails Systems/Rage Email Builder.md",
+    "Rage Emails Systems/Rage Email Framework.md",
     "Rage Emails Systems/Rage CRM Playbook.md",
     "Rage Emails Systems/Rage Communication System.md",
     "Rage Customer Database.md",
@@ -210,7 +211,6 @@
     "Customer Experience/02 - Customer Journey - 2 (equipamento).md",
     "Customer Experience/02 - Customer Journey - 1 (descoberta).md",
     "Customer Experience/01 - CRM Architecture.md",
-    "Customer Experience/00 - Regras.md",
     "Customer Experience",
     "RAGE/Estrutura peças, análises e preços.canvas",
     "RAGE/Roadmap da marca.canvas",
