@@ -235,3 +235,23 @@ Upgrade do plano Perfit/Nuvem Marketing — mesmo pré-requisito das Limitaçõe
 
 **Operação dos Flows 04-07:**
 Todos operam via Campanhas manuais no Perfit (menu "Campanhas"), sem automação. A equipe seleciona a lista correspondente ao enviar cada comunicação.
+
+
+---
+
+# Relatório de Testes — Fase 04
+
+**Data:** 20/06/2026
+
+| Item | Status | Observação |
+|------|--------|------------|
+| Popup | ✅ | Ativo na loja, integrado à lista "Boas vindas" |
+| Cupom RAGE10 | ✅ | Incluído no Email 01 do Flow 01 — 10% na primeira compra |
+| Inscrição na newsletter | ✅ | Formulário ativo, envia para lista "Boas vindas" |
+| Flow 01 — Boas-vindas | ✅ | Ativo, 4 emails (D0 / D+5 / D+10 / D+14), gatilho: qualquer formulário Perfit. 0 iniciados — aguardando primeiras inscrições via popup |
+| Flow 02 — Primeira Compra | ✅ | Ativo, 6 iniciados, 4 completos, email com cupom cross-sell |
+| Flow 03 — Evolução | ⛔ | Bloqueado por plano (Limitação 03) |
+| Segmentações | ✅ | 7 listas configuradas e mapeadas por flow |
+| Limitações documentadas | ✅ | Limitações 01, 02 e 03 registradas no Obsidian |
+
+**Conclusão:** Toda a infraestrutura disponível no plano atual está operacional. Os flows 01 e 02 aguardam tráfego orgânico para validação de envio. Emails 02 a 05 dos flows e Flow 03 completo dependem de upgrade do plano Perfit/Nuvem Marketing.
