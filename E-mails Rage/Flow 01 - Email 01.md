@@ -91,4 +91,4 @@ Esperamos que esta seja apenas a primeira de muitas escolhas.
 
 ### Implementação
 
-Após a aprovação deste documento, o Lucius deverá solicitar apenas a Hero Image antes de montar o email no Perfit.
+Após a aprovação deste documento, o Lucius (Claude AI) deverá solicitar apenas a Hero Image antes de montar o email no Perfit.
