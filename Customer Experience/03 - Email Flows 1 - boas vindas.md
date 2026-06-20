@@ -112,20 +112,26 @@ Imediatamente após o cadastro.
 
 # Condição de Encerramento
 
-O fluxo é encerrado quando:
+O Flow 01 é concluído apenas após o envio dos quatro emails.
 
-- O cliente conclui os quatro emails.
-    
+Caso o cliente realize sua primeira compra durante o Flow 01, ele inicia imediatamente o Flow 02 - Primeira Compra, permanecendo também no Flow 01 até receber todos os quatro emails.
 
-ou
+Caso o cliente conclua o Flow 01 sem realizar nenhuma compra, ele permanece na comunicação regular da Rage (newsletter, campanhas e lançamentos) até efetuar sua primeira compra.
 
-- Realiza sua primeira compra.
-    
-
-Após a primeira compra, o cliente deixa este fluxo e inicia o Flow 02 - Primeira Compra.
+Após a primeira compra, o cliente inicia o Flow 02 - Primeira Compra.
 
 ---
 
 # Objetivo Final
 
-Ao concluir este fluxo, o cliente deve sentir que conhece a Rage, compreende seus diferenciais e possui confiança suficiente para realizar sua primeira compra.
+Ao concluir o Flow 01, o cliente deve:
+
+- Conhecer a filosofia da Rage.
+    
+- Entender o que diferencia a marca.
+    
+- Conhecer os principais produtos.
+    
+- Compreender a qualidade por trás de cada peça.
+    
+- Sentir confiança suficiente para realizar sua primeira compra.
