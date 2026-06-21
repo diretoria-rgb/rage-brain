@@ -1,38 +1,99 @@
 
-# Flow 03 - Email 05: Por trás dos nomes
+## Por trás de cada peça
 
-**Assunto:** Cada nome tem uma razão de existir.
+### Objetivo
 
-**Preheader:** Os produtos da Rage não são batizados por acaso.
-
----
-
-## Headline
-
-Por trás dos nomes.
+Apresentar a arquitetura dos produtos da Rage e mostrar que cada peça possui uma função, uma identidade e um propósito.
 
 ---
 
-## Corpo
+### Assunto
 
-A Rage não nomeia produtos de forma aleatória.
-
-Cada nome carrega uma referência, uma história e uma função.
-
-O Bravo foi inspirado em armaduras greco-romanas — construído para suportar carga. O Rifte remete a atravessar obstáculos e continuar avançando — feito para permanecer em movimento. O Velite homenageia os soldados leves romanos usados para movimentação rápida — máxima liberdade para máxima intensidade. O Scudo vem de escudo — cobertura e segurança para treinos pesados. O Sentinel é o sentinela — sempre preparado, mesmo quando não está em combate. O Malleus é o martelo — a primeira ferramenta que se pega para resolver um problema.
-
-Cada nome resume o que a peça faz. Não o que ela parece.
-
-Esse é o princípio por trás de cada produto que a Rage desenvolve.
+Cada peça começa com uma ideia.
 
 ---
 
-## CTA
+### Preheader
 
-"Conhecer as peças." → Catálogo / página de produtos
+Na Rage, os nomes não são escolhidos por acaso.
 
 ---
 
-## Footer
+### Hero Image
 
-Cada peça começa como uma ideia. O nome é a última coisa que fica. Hard by Choice.
+Composição com as principais peças da coleção.
+
+---
+
+### Headline
+
+Toda peça tem uma função.
+
+---
+
+### Texto
+
+Na Rage, os produtos não recebem nomes apenas para identificar uma coleção.
+
+Cada peça nasce para resolver um problema específico dentro do treino.
+
+Seu nome é uma forma de representar essa função.
+
+As referências vêm da história, da arquitetura, da mitologia e da performance. Nunca de forma literal, mas como inspiração para aquilo que cada produto entrega.
+
+**Sentinel**  
+Prontidão. Uma camiseta versátil para treino e rotina.
+
+**Malleus**  
+Confiabilidade. A peça que funciona em qualquer situação.
+
+**Bravo**  
+Resistência. Construído para suportar treinos pesados.
+
+**Scudo**  
+Proteção. Cobertura e estabilidade para treinos de força.
+
+**Velite**  
+Agilidade. Máxima liberdade para movimentos intensos.
+
+**Rifte**  
+Movimento. Leveza para corrida, condicionamento e velocidade.
+
+No fim, o nome é apenas o começo.
+
+O que realmente define cada peça é a forma como ela acompanha você durante o treino.
+
+---
+
+### CTA
+
+Conhecer a coleção.
+
+---
+
+### Destino do CTA
+
+Página principal da coleção.
+
+---
+
+### Rodapé
+
+Cada peça tem uma função. Escolha a que faz sentido para o seu treino.
+
+**Hard by Choice.**
+
+---
+
+### Assets
+
+- Hero Image
+    
+- Uma imagem de cada produto (Sentinel, Malleus, Bravo, Scudo, Velite e Rifte)
+    
+
+---
+
+### Implementação
+
+O Lucius deverá organizar os produtos em um grid visual, com foto, nome e uma linha de descrição para cada peça.

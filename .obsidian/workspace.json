@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95ec8af2a3ec8fde",
+            "id": "5677921460a7cfdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAGE/Estrutura de características das peças.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Estrutura de características das peças"
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,13 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95ec8af2a3ec8fde",
+  "active": "5677921460a7cfdb",
   "lastOpenFiles": [
+    "E-mails Rage/Flow 03 - Email 05.md",
+    "RAGE/Estrutura de características das peças.md",
     "RAGE/Nomes das peças, Etiquetas, Tecidos.md",
     "RAGE/Estrutura peças, análises e preços.canvas",
     "E-mails Rage/Flow 03 - Email 01.md",
-    "RAGE/Estrutura de características das peças.md",
-    "E-mails Rage/Flow 03 - Email 05.md",
     "Skills/Produto e Inovação.md",
     "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
     "RAGE/Roadmap da marca.canvas",
