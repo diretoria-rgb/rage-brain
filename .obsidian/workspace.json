@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e264d57dcfd05422",
+            "id": "7babca541e433c15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-mails Rage/Flow 01 - Email 03.md",
+                "file": "Customer Experience/03 - Email Flows 2 - primeira compra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow 01 - Email 03"
+              "title": "03 - Email Flows 2 - primeira compra"
             }
           }
         ]
@@ -182,20 +182,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e264d57dcfd05422",
+  "active": "7babca541e433c15",
   "lastOpenFiles": [
+    "Flow 02 - Email 1.md",
+    "Customer Experience/03 - Email Flows 2 - primeira compra.md",
+    "E-mails Rage/Flow 01 - Email 01.md",
+    "E-mails Rage/Flow 01 - Email 03.md",
     "Customer Experience/03 - Email Flows.md",
     "Rage Customer Database.md",
     "E-mails Rage/Flow 01 - Email 04.md",
-    "E-mails Rage/Flow 01 - Email 03.md",
     "E-mails Rage/Flow 01 - Email 02.md",
-    "E-mails Rage/Flow 01 - Email 01.md",
     "Customer Experience/03 - Email Flows 7 - campanhas.md",
     "Customer Experience/03 - Email Flows 6 - representação.md",
     "Customer Experience/03 - Email Flows 5 - comunidade.md",
     "Customer Experience/03 - Email Flows 4 - crosselling.md",
     "Customer Experience/03 - Email Flows 3 - evolução.md",
-    "Customer Experience/03 - Email Flows 2 - primeira compra.md",
     "Customer Experience/03 - Email Flows 1 - boas vindas.md",
     "Customer Experience/02 - Customer Journey 5 - (representação).md",
     "Customer Experience/02 - Customer Journey 4 - (comunidade).md",
@@ -211,7 +212,6 @@
     "Rage Emails Systems/Rage Communication System.md",
     "Rage Emails Systems",
     "Customer Experience/04 - Lucius Tasks.md",
-    "Customer Experience/09 - Future Ideas.md",
     "Customer Experience",
     "RAGE/Estrutura peças, análises e preços.canvas",
     "RAGE/Roadmap da marca.canvas",
