@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f08945d7c8115c7c",
+            "id": "95ec8af2a3ec8fde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Customer Experience/Flow 02 - Email 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Flow 02 - Email 1"
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,12 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f08945d7c8115c7c",
+  "active": "95ec8af2a3ec8fde",
   "lastOpenFiles": [
+    "E-mails Rage/Flow 03 - Email 04.md",
+    "E-mails Rage/Flow 03 - Email 03.md",
+    "E-mails Rage/Flow 03 - Email 02.md",
+    "E-mails Rage/Flow 03 - Email 01.md",
+    "E-mails Rage/Flow 02 - Email 04.md",
+    "E-mails Rage/Flow 02 - Email 03.md",
     "Customer Experience/03 - Email Flows 2 - primeira compra.md",
     "Customer Experience/Flow 02 - Email 1.md",
     "E-mails Rage/Flow 02 - Email 01.md",
-    "Flow 02 - Email 02.md",
+    "E-mails Rage/Flow 02 - Email 02.md",
     "E-mails Rage/Flow 01 - Email 01.md",
     "E-mails Rage/Flow 01 - Email 03.md",
     "Customer Experience/03 - Email Flows.md",
@@ -204,13 +206,7 @@
     "Customer Experience/02 - Customer Journey 4 - (comunidade).md",
     "Customer Experience/02 - Customer Journey 3 - (evolução).md",
     "Customer Experience/02 - Customer Journey 2 - (equipamento).md",
-    "Customer Experience/02 - Customer Journey 1 - (descoberta).md",
     "E-mails Rage",
-    "Rage Emails Systems/00 Lucius Protocol — Construção de Emails Rage.md",
-    "Rage Emails Systems/Rage Email Components Library.md",
-    "Rage Emails Systems/Rage Email Builder.md",
-    "Rage Emails Systems/Rage Email Framework.md",
-    "Rage Emails Systems/Rage CRM Playbook.md",
     "Rage Emails Systems",
     "Customer Experience",
     "RAGE/Estrutura peças, análises e preços.canvas",

@@ -29,7 +29,7 @@ Imediatamente após a primeira compra.
 
 **Envio**
 
-1 dia após a confirmação de entrega.
+Imediatamente após a confirmação de entrega.
 
 **Objetivo**
 
