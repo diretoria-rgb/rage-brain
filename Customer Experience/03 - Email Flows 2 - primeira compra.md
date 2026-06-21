@@ -1,134 +1,97 @@
 
 
-**Versão:** 1.0  
-**Status:** Em desenvolvimento  
-**Última atualização:** 19/06/2026
+Primeira Compra
+
+## Objetivo
+
+Receber o novo cliente, reforçar a confiança na compra, ensinar como aproveitar melhor o produto e iniciar o relacionamento de longo prazo.
 
 ---
 
-# Objetivo
-
-Acompanhar o cliente durante sua primeira experiência com um produto Rage.
-
-O fluxo existe para gerar confiança, confirmar a qualidade percebida da marca e iniciar um relacionamento de longo prazo após a compra.
-
-O foco desta etapa não é vender novamente, mas garantir que o cliente tenha uma excelente primeira experiência.
-
----
-
-# Gatilho
-
-O fluxo inicia quando o cliente realiza sua primeira compra.
-
----
-
-# Canais
-
-- Email
-
-
----
-
-# Estrutura do Fluxo
-
-## Email 01 — Pedido Confirmado
+# Email 01 — Sua escolha foi confirmada
 
 **Envio**
 
-Imediatamente após a confirmação da compra.
+Imediatamente após a primeira compra.
 
 **Objetivo**
 
-- Confirmar o pedido.
-    
 - Agradecer pela confiança.
     
-- Reforçar a identidade da Rage.
+- Reforçar que ele fez uma boa escolha.
     
-- Informar os próximos passos do processo.
-    
-
----
-
-## Email 02 — Seu equipamento está a caminho
-
-**Envio**
-
-Quando o pedido for enviado.
-
-**Objetivo**
-
-- Informar o envio.
-    
-- Reforçar a expectativa pela chegada do produto.
-    
-- Compartilhar orientações para acompanhamento da entrega.
+- Explicar o que acontece a partir de agora (produção, envio e acompanhamento).
     
 
 ---
 
-## Email 03 — Seu pedido chegou?
+# Email 02 — Seu equipamento chegou
 
 **Envio**
 
-Após confirmação de envio.
+1 dia após a confirmação de entrega.
 
 **Objetivo**
 
-- Confirmar o recebimento.
+- Ensinar os primeiros cuidados com a peça.
     
-- Demonstrar proximidade.
+- Explicar lavagem, secagem e conservação.
     
-- Abrir espaço para dúvidas ou suporte.
+- Reforçar a durabilidade do produto.
     
 
 ---
 
-## Email 04 — Cuidados com seu equipamento
+# Email 03 — Complete sua composição
 
 **Envio**
 
-1 dia após o Email 03.
+2 dias após o Email 02.
 
 **Objetivo**
 
-- Ensinar os cuidados com o produto.
+- Apresentar produtos que combinam com a compra realizada.
     
-- Aumentar sua durabilidade.
+- Facilitar o Cross Selling.
     
-- Reforçar a qualidade da peça.
+- Mostrar composições prontas.
     
 
 ---
 
-## Email 05 — Complete sua composição
+# Email 04 — Como foi seu primeiro treino?
 
 **Envio**
 
-2 dias após o Email 04.
+2 dias após o Email 03.
 
 **Objetivo**
 
-- Apresentar combinações naturais entre produtos.
+- Solicitar feedback.
     
-- Mostrar outras cores e peças compatíveis.
+- Incentivar postagem usando a Rage.
     
-- Incentivar uma nova compra de forma contextual.
+- Convidar o cliente para acompanhar os desafios e eventos da marca.
     
 
 ---
 
 # Condição de Encerramento
 
-O fluxo é encerrado quando:
+O Flow 02 é concluído após o envio dos quatro emails.
 
-- O cliente conclui todas as comunicações previstas.
-    
-
-Após isso, o cliente inicia o Flow 03 - Evolução.
+Ao término, o cliente passa a receber apenas as comunicações recorrentes da Rage (newsletter, lançamentos, campanhas e eventos).
 
 ---
 
 # Objetivo Final
 
-Ao concluir este fluxo, o cliente deve sentir que fez uma excelente escolha, confiar na qualidade da Rage e desejar continuar seu relacionamento com a marca.
+Ao concluir este fluxo, o cliente deve:
+
+- Sentir que fez uma excelente compra.
+    
+- Conhecer melhor a qualidade do produto.
+    
+- Ter vontade de comprar novamente.
+    
+- Sentir-se parte da comunidade Rage.
