@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4451525cc13594f8",
+        "id": "ba3820a90ae780d3",
         "type": "tabs",
         "children": [
           {
-            "id": "5677921460a7cfdb",
+            "id": "9059597de5608127",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-mails Rage/Flow 03 - Email 01.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Flow 03 - Email 01"
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5677921460a7cfdb",
+  "active": "9059597de5608127",
   "lastOpenFiles": [
-    "Customer Experience/03 - Email Flows 3 - evolução.md",
     "E-mails Rage/Flow 03 - Email 01.md",
+    "Customer Experience/03 - Email Flows 3 - evolução.md",
     "Rage Emails Systems/Rage Email Framework.md",
     "Rage Emails Systems/Rage Email Components Library.md",
     "Rage Emails Systems/00 Lucius Protocol — Construção de Emails Rage.md",
