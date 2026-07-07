@@ -11,10 +11,14 @@
             "id": "9059597de5608127",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Redes Sociais/Rage - Calendário Conteúdo (jul, ago 26).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Rage - Calendário Conteúdo (jul, ago 26)"
             }
           }
         ]
@@ -178,8 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9059597de5608127",
+  "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
+    "Redes Sociais/Rage - Calendário Conteúdo (jul, ago 26).md",
+    "Redes Sociais",
     "E-mails Rage/Flow 03 - Email 01.md",
     "Customer Experience/03 - Email Flows 3 - evolução.md",
     "Rage Emails Systems/Rage Email Framework.md",
@@ -207,7 +213,6 @@
     "E-mails Rage/Flow 01 - Email 01.md",
     "E-mails Rage/Flow 01 - Email 03.md",
     "Customer Experience/03 - Email Flows.md",
-    "Rage Customer Database.md",
     "E-mails Rage",
     "Rage Emails Systems",
     "Customer Experience",
