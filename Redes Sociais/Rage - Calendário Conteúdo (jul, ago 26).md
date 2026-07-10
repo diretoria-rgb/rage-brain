@@ -6,14 +6,14 @@
 
 ## Metadados do Ciclo
 
-|Campo|Valor|
-|---|---|
-|Período|07 Jul – 15 Ago 2026|
-|Duração|6 semanas|
-|Canal principal|Newsletter (Segunda)|
-|Canal técnico|Feed Reels ou Carrossel (Quarta)|
-|Canal visual|Stories (Sexta)|
-|App de controle|https://rage-calendar-opal.vercel.app|
+| Campo           | Valor                                 |
+| --------------- | ------------------------------------- |
+| Período         | 07 Jul – 15 Ago 2026                  |
+| Duração         | 6 semanas                             |
+| Canal principal | Newsletter (Segunda)                  |
+| Canal técnico   | Feed Reels ou Carrossel (Quarta)      |
+| Canal visual    | Fedd Reels ou  (Sexta)                |
+| App de controle | https://rage-calendar-opal.vercel.app |
 
 ---
 
