@@ -12,7 +12,7 @@
 | Duração         | 6 semanas                             |
 | Canal principal | Newsletter (Segunda)                  |
 | Canal técnico   | Feed Reels ou Carrossel (Quarta)      |
-| Canal visual    | Fedd Reels ou  (Sexta)                |
+| Canal visual    | Fedd Reels ou Carrossel (Sexta)       |
 | App de controle | https://rage-calendar-opal.vercel.app |
 
 ---
@@ -61,11 +61,11 @@ Estes temas foram explorados neste ciclo ou em artigos anteriores publicados no 
 
 **Ligação com produto:** Velite + Bravo. Peças que somem no corpo. A roupa que você esquece que está usando é a prova de que ela está funcionando.
 
-|Dia|Data|Canal|Título|Hook|
-|---|---|---|---|---|
-|Segunda|07 Jul|Newsletter|O atleta que ninguém vê|"O aplauso é público. O trabalho é privado."|
-|Quarta|09 Jul|Feed — Carrossel|5 hábitos de recuperação que atletas sérios não ignoram|"Treino é estímulo. Recuperação é onde o resultado acontece."|
-|Sexta|11 Jul|Stories|Kit invisível — dois looks que somem no treino|"Quando a roupa funciona, você esquece que está usando."|
+| Dia     | Data   | Canal            | Título                                                  | Hook                                                          |
+| ------- | ------ | ---------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
+| Segunda | 07 Jul | Newsletter       | O atleta que ninguém vê                                 | "O aplauso é público. O trabalho é privado."                  |
+| Quarta  | 09 Jul | Feed — Carrossel | 5 hábitos de recuperação que atletas sérios não ignoram | "Treino é estímulo. Recuperação é onde o resultado acontece." |
+| Sexta   | 11 Jul | Feed — Reels     | Kit invisível — dois looks que somem no treino          | "Quando a roupa funciona, você esquece que está usando."      |
 
 **Notas de produção:**
 
@@ -82,11 +82,11 @@ Estes temas foram explorados neste ciclo ou em artigos anteriores publicados no 
 
 **Ligação com produto:** Malleus. Design sem estampa como decisão técnica, não estética. Cada costura existe por um motivo.
 
-|Dia|Data|Canal|Título|Hook|
-|---|---|---|---|---|
-|Segunda|14 Jul|Newsletter|Força não é tamanho|"O atleta mais forte da sala raramente é o maior."|
-|Quarta|16 Jul|Feed — Reels|Por que a Malleus não tem estampa|"Design limpo é uma decisão técnica, não estética."|
-|Sexta|18 Jul|Stories|Malleus em treino de força — monocromático|"Preta sobre preta. Sem distração."|
+| Dia     | Data   | Canal        | Título                                     | Hook                                                |
+| ------- | ------ | ------------ | ------------------------------------------ | --------------------------------------------------- |
+| Segunda | 14 Jul | Newsletter   | Força não é tamanho                        | "O atleta mais forte da sala raramente é o maior."  |
+| Quarta  | 16 Jul | Feed — Reels | Por que a Malleus não tem estampa          | "Design limpo é uma decisão técnica, não estética." |
+| Sexta   | 18 Jul | Feed — Reels | Malleus em treino de força — monocromático | "Preta sobre preta. Sem distração."                 |
 
 **Notas de produção:**
 
@@ -103,11 +103,11 @@ Estes temas foram explorados neste ciclo ou em artigos anteriores publicados no 
 
 **Ligação com produto:** Scudo e tecido. Diferença entre 88/12 e 100% poliéster. O que é flatlock e por que elimina irritação.
 
-|Dia|Data|Canal|Título|Hook|
-|---|---|---|---|---|
-|Segunda|21 Jul|Newsletter|O erro que destrói a consistência|"Não é falta de motivação. É excesso de ambição no início."|
-|Quarta|23 Jul|Feed — Carrossel|O que o tecido da sua roupa diz sobre o seu treino|"Gramatura, composição e construção — por que importa."|
-|Sexta|25 Jul|Stories|Scudo em dois contextos — força e funcional|"A mesma peça. Dois trabalhos diferentes."|
+| Dia     | Data   | Canal            | Título                                             | Hook                                                        |
+| ------- | ------ | ---------------- | -------------------------------------------------- | ----------------------------------------------------------- |
+| Segunda | 21 Jul | Newsletter       | O erro que destrói a consistência                  | "Não é falta de motivação. É excesso de ambição no início." |
+| Quarta  | 23 Jul | Feed — Carrossel | O que o tecido da sua roupa diz sobre o seu treino | "Gramatura, composição e construção — por que importa."     |
+| Sexta   | 25 Jul | Feed — Reels     | Scudo em dois contextos — força e funcional        | "A mesma peça. Dois trabalhos diferentes."                  |
 
 **Notas de produção:**
 
@@ -124,11 +124,11 @@ Estes temas foram explorados neste ciclo ou em artigos anteriores publicados no 
 
 **Ligação com produto:** Rifte vs Bravo. Por que o Rifte tem alça e o Bravo não. Produto explicado por função, não por marketing.
 
-|Dia|Data|Canal|Título|Hook|
-|---|---|---|---|---|
-|Segunda|28 Jul|Newsletter|Correr com intenção|"Zona 2 não é treino fácil. É treino inteligente."|
-|Quarta|30 Jul|Feed — Reels|Por que o Rifte tem alça e o Bravo não|"Cada função exige uma solução diferente."|
-|Sexta|01 Ago|Stories|Kit de corrida — Velite + Rifte em paleta terrosa|"Leve o suficiente para esquecer que está usando."|
+| Dia     | Data   | Canal        | Título                                            | Hook                                               |
+| ------- | ------ | ------------ | ------------------------------------------------- | -------------------------------------------------- |
+| Segunda | 28 Jul | Newsletter   | Correr com intenção                               | "Zona 2 não é treino fácil. É treino inteligente." |
+| Quarta  | 30 Jul | Feed — Reels | Por que o Rifte tem alça e o Bravo não            | "Cada função exige uma solução diferente."         |
+| Sexta   | 01 Ago | Feed — Reels | Kit de corrida — Velite + Rifte em paleta terrosa | "Leve o suficiente para esquecer que está usando." |
 
 **Notas de produção:**
 
@@ -145,11 +145,11 @@ Estes temas foram explorados neste ciclo ou em artigos anteriores publicados no 
 
 **Ligação com produto:** Sentinel em treino longo. A mesma peça do aquecimento à volta à calma — sem precisar trocar.
 
-|Dia|Data|Canal|Título|Hook|
-|---|---|---|---|---|
-|Segunda|04 Ago|Newsletter|O que a fadiga revela|"Quando você está exausto, o que sobra é o que você realmente construiu."|
-|Quarta|06 Ago|Feed — Carrossel|Como identificar se sua roupa está te atrapalhando|"Se você pensou na roupa durante o treino, ela falhou."|
-|Sexta|08 Ago|Stories|Sentinel em treino longo — do aquecimento ao final|"A camiseta que acompanha sem interferir."|
+| Dia     | Data   | Canal            | Título                                             | Hook                                                                      |
+| ------- | ------ | ---------------- | -------------------------------------------------- | ------------------------------------------------------------------------- |
+| Segunda | 04 Ago | Newsletter       | O que a fadiga revela                              | "Quando você está exausto, o que sobra é o que você realmente construiu." |
+| Quarta  | 06 Ago | Feed — Carrossel | Como identificar se sua roupa está te atrapalhando | "Se você pensou na roupa durante o treino, ela falhou."                   |
+| Sexta   | 08 Ago | Feed — Reels     | Sentinel em treino longo — do aquecimento ao final | "A camiseta que acompanha sem interferir."                                |
 
 **Notas de produção:**
 
@@ -166,11 +166,11 @@ Estes temas foram explorados neste ciclo ou em artigos anteriores publicados no 
 
 **Ligação com produto:** Kit completo Rage. Flat lay com função declarada de cada peça. Encerramento do ciclo.
 
-|Dia|Data|Canal|Título|Hook|
-|---|---|---|---|---|
-|Segunda|11 Ago|Newsletter|Construído para durar|"Peça barata é aquela que você compra toda temporada."|
-|Quarta|13 Ago|Feed — Reels|Uma peça Rage depois de 6 meses de uso real|"O que sobrevive ao treino honesto."|
-|Sexta|15 Ago|Stories|Kit completo Rage — cada peça com uma função|"Nada aqui é decoração."|
+| Dia     | Data   | Canal        | Título                                       | Hook                                                   |
+| ------- | ------ | ------------ | -------------------------------------------- | ------------------------------------------------------ |
+| Segunda | 11 Ago | Newsletter   | Construído para durar                        | "Peça barata é aquela que você compra toda temporada." |
+| Quarta  | 13 Ago | Feed — Reels | Uma peça Rage depois de 6 meses de uso real  | "O que sobrevive ao treino honesto."                   |
+| Sexta   | 15 Ago | Feed — Reels | Kit completo Rage — cada peça com uma função | "Nada aqui é decoração."                               |
 
 **Notas de produção:**
 
