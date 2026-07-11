@@ -280,3 +280,25 @@ _(espaço para uso futuro)_
 ---
 
 _Documento gerado em Julho de 2026 · Rage Technical Sportswear_ _Última correção de datas e inclusão de Desafios Rage: 11/07/2026_ _Próxima revisão recomendada: início do Ciclo 02_
+
+
+---
+
+## Atualização 11/07/2026 — Ficha Editorial + Slots Oportunistas
+
+O app do Vercel (rage-calendar-opal.vercel.app) foi expandido para carregar, por publicação, a Ficha Editorial completa: Tipo, Categoria (Ensinar, Comunidade, Mentalidade, Performance, Ciência, Equipamento, Bastidores, Vitrine), Objetivo, Intenção, Emoção, Referência, Produto relacionado, CTA, Tempo estimado, Recursos (fotos/vídeos/local/atleta/equipamentos), Legenda e Status (Ideia, Pesquisa, Roteiro resumido, Programado, Publicado). Todas as 18 publicações já programadas deste ciclo receberam ficha completa.
+
+Cada semana ganhou também um slot opcional de Terça, Quinta ou Sábado — Biblioteca Rage ou Notas de Campo — com uma sugestão já pronta, marcado como oportunidade e não obrigação (não entra na contagem de execução do calendário). Sugestões desta rodada: bastidor de erro de produção (S1), força relativa vs. força absoluta (S2), overreaching e progressão de carga (S3), relato de atleta parceiro em Zona 2 (S4), fadiga central x periférica (S5), bastidor de teste de durabilidade (S6).
+
+Nota técnica: o app está publicado direto na Vercel (fora do fluxo Git) porque o acesso ao repositório GitHub (diretoria-rgb/rage-calendar) ainda está pendente de autorização.
+
+
+---
+
+## Atualização 11/07/2026 — Ficha Editorial + Slots Oportunistas
+
+O app do Vercel (rage-calendar-opal.vercel.app) foi expandido para carregar, por publicação, a Ficha Editorial completa: Tipo, Categoria (Ensinar, Comunidade, Mentalidade, Performance, Ciência, Equipamento, Bastidores, Vitrine), Objetivo, Intenção, Emoção, Referência, Produto relacionado, CTA, Tempo estimado, Recursos (fotos/vídeos/local/atleta/equipamentos), Legenda e Status (Ideia, Pesquisa, Roteiro resumido, Programado, Publicado). Todas as 18 publicações já programadas deste ciclo receberam ficha completa.
+
+Cada semana ganhou também um slot opcional de Terça, Quinta ou Sábado — Biblioteca Rage ou Notas de Campo — com uma sugestão já pronta, marcado como oportunidade e não obrigação (não entra na contagem de execução do calendário). Sugestões desta rodada: bastidor de erro de produção (S1), força relativa vs. força absoluta (S2), overreaching e progressão de carga (S3), relato de atleta parceiro em Zona 2 (S4), fadiga central x periférica (S5), bastidor de teste de durabilidade (S6).
+
+Nota técnica: o app está publicado direto na Vercel (fora do fluxo Git) porque o acesso ao repositório GitHub (diretoria-rgb/rage-calendar) ainda está pendente de autorização.
