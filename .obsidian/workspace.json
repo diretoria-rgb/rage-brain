@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
+                "file": "Skills/Comunidade e Movimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistema de Gameficação (ainda apenas na ideia)"
+              "title": "Comunidade e Movimento"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "8328e4bcfad312d6",
   "lastOpenFiles": [
-    "RAGE/Roadmap da marca.canvas",
+    "Skills/Positioning.md",
     "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
+    "RAGE/Roadmap da marca.canvas",
     "Customer Experience/05 - Calendar.md",
     "Customer Experience/04 - Lucius Tasks.md",
     "Redes Sociais/Rage - Calendário Conteúdo (jul, ago 26).md",
