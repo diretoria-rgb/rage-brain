@@ -11,10 +11,14 @@
             "id": "63fd7a96d69e800e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas para a Rage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Pesquisa de marcas para a Rage"
             }
           }
         ]
@@ -178,8 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "63fd7a96d69e800e",
   "lastOpenFiles": [
+    "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas para a Rage.md",
+    "Pesquisas - marcas, estratégias, etc",
     "Skills/Positioning.md",
     "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
     "RAGE/Roadmap da marca.canvas",
@@ -208,7 +214,6 @@
     "Rage Emails Systems/Rage CRM Playbook.md",
     "Rage Emails Systems/Rage Communication System.md",
     "E-mails Rage/Flow 02 - Email 01.md",
-    "Customer Experience/Flow 02 - Email 1.md",
     "E-mails Rage",
     "Rage Emails Systems",
     "Customer Experience",
