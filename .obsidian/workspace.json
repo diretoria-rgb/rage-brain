@@ -11,10 +11,14 @@
             "id": "cd66ed8487ce4d78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Redes Sociais/Rage - Calendário Conteúdo (jul, ago 26).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Rage - Calendário Conteúdo (jul, ago 26)"
             }
           }
         ]
@@ -178,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "cd66ed8487ce4d78",
   "lastOpenFiles": [
     "Redes Sociais/Rage - Diretriz Editorial.md",
     "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - Satisfy Running.md",
