@@ -11,10 +11,12 @@
             "id": "b7c161410c5ba13f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "image",
+              "state": {
+                "file": "RAGE/Rage logo branco.png"
+              },
+              "icon": "lucide-image",
+              "title": "Rage logo branco"
             }
           }
         ]
@@ -182,10 +184,10 @@
   },
   "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
+    "RAGE/Rage logo preto.png",
+    "RAGE/Rage logo branco.png",
     "Rage Emails Systems/Newsletter - Diretriz Editorial.md",
     "Rage Emails Systems/Cronograma de E-mails - Venda Direta (Bravo).md",
-    "Rage logo preto.png",
-    "Rage logo branco.png",
     "RAGE/Logos Rage.md",
     "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
     "RAGE/Rage Performance.md",
@@ -212,7 +214,6 @@
     "Customer Experience/05 - Calendar.md",
     "Customer Experience/04 - Lucius Tasks.md",
     "Redes Sociais",
-    "E-mails Rage/Flow 03 - Email 01.md",
     "RAGE/Estrutura peças, análises e preços.canvas",
     "E-mails Rage",
     "Rage Emails Systems",
