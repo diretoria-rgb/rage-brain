@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8109c745cf93fb03",
+        "id": "f666a4db18460377",
         "type": "tabs",
         "children": [
           {
-            "id": "b7c161410c5ba13f",
+            "id": "a08d29af0b130acf",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "RAGE/Rage logo branco.png"
-              },
-              "icon": "lucide-image",
-              "title": "Rage logo branco"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "a08d29af0b130acf",
   "lastOpenFiles": [
-    "RAGE/Rage logo preto.png",
+    "RAGE/Eventos Futuros Rage.md",
     "RAGE/Rage logo branco.png",
+    "RAGE/Rage logo preto.png",
     "Rage Emails Systems/Newsletter - Diretriz Editorial.md",
     "Rage Emails Systems/Cronograma de E-mails - Venda Direta (Bravo).md",
     "RAGE/Logos Rage.md",
@@ -199,7 +198,6 @@
     "RAGE/Manifesto Rage.md",
     "RAGE/Ideia de Embalagem.md",
     "RAGE/Gastos - coleção preta - Camisetas.md",
-    "RAGE/Eventos Futuros Rage.md",
     "RAGE/Estrutura de características das peças.md",
     "RAGE/Estratégia para venda de peças piloto.md",
     "RAGE/Estratégia para venda de estoque parado.md",
