@@ -11,10 +11,14 @@
             "id": "a08d29af0b130acf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAGE/Estratégia para venda de estoque parado.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Estratégia para venda de estoque parado"
             }
           }
         ]
@@ -182,6 +186,9 @@
   },
   "active": "a08d29af0b130acf",
   "lastOpenFiles": [
+    "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
+    "RAGE/Gastos - coleção preta - Camisetas.md",
+    "RAGE/Gastos - coleção preta - Shorts.md",
     "RAGE/Eventos Futuros Rage.md",
     "RAGE/Rage logo branco.png",
     "RAGE/Rage logo preto.png",
@@ -197,11 +204,9 @@
     "RAGE/Marketing.md",
     "RAGE/Manifesto Rage.md",
     "RAGE/Ideia de Embalagem.md",
-    "RAGE/Gastos - coleção preta - Camisetas.md",
     "RAGE/Estrutura de características das peças.md",
     "RAGE/Estratégia para venda de peças piloto.md",
     "RAGE/Estratégia para venda de estoque parado.md",
-    "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
     "Redes Sociais/Rage - Calendário Conteúdo (jul, ago 26).md",
     "Redes Sociais/Rage - Diretriz Editorial.md",
     "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - Satisfy Running.md",
