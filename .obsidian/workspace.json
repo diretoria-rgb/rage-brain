@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f666a4db18460377",
+        "id": "25a538fc0198d5d6",
         "type": "tabs",
         "children": [
           {
-            "id": "21392cfb7b38c142",
+            "id": "5b172ced774bffd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,15 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21392cfb7b38c142",
+  "active": "5b172ced774bffd7",
   "lastOpenFiles": [
+    "E-mails Rage/Flow 01 - Email 01.md",
+    "Feminino Rage/Planilha Drop Agosto 2026.md",
     "_export_Página3.csv",
     "_export_Página2.csv",
     "~$Drop Agosto Rage 2026 (1).xlsx",
     "Drop Agosto Rage 2026 (1) 1.xlsx",
     "7ECAF010",
     "Drop Agosto Rage 2026 (1).xlsx",
-    "Feminino Rage/Planilha Drop Agosto 2026.md",
     "Feminino Rage",
     "RAGE/Estratégia para venda de estoque parado.md",
     "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
@@ -224,7 +225,6 @@
     "Skills/Positioning.md",
     "Redes Sociais",
     "RAGE/Estrutura peças, análises e preços.canvas",
-    "E-mails Rage",
-    "Rage Emails Systems"
+    "E-mails Rage"
   ]
 }
