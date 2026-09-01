@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25a538fc0198d5d6",
+        "id": "1304314e2533bf77",
         "type": "tabs",
         "children": [
           {
-            "id": "5b172ced774bffd7",
+            "id": "ca71924df19f143d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feminino Rage/Planilha Drop Agosto 2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Planilha Drop Agosto 2026"
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,10 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b172ced774bffd7",
+  "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
-    "E-mails Rage/Flow 01 - Email 01.md",
+    "Feminino Rage/Agosto 26.md",
     "Feminino Rage/Planilha Drop Agosto 2026.md",
+    "Feminino Rage",
+    "E-mails Rage/Flow 01 - Email 01.md",
     "_export_Página3.csv",
     "_export_Página2.csv",
     "~$Drop Agosto Rage 2026 (1).xlsx",
@@ -222,9 +220,7 @@
     "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - Ten Thousand.md",
     "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - ASRV.md",
     "Pesquisas - marcas, estratégias, etc",
-    "Skills/Positioning.md",
     "Redes Sociais",
-    "RAGE/Estrutura peças, análises e preços.canvas",
-    "E-mails Rage"
+    "RAGE/Estrutura peças, análises e preços.canvas"
   ]
 }
