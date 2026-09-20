@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1304314e2533bf77",
+        "id": "a143cfb028a2d5a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ca71924df19f143d",
+            "id": "6d56978f193b5875",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema e Drops Recorrentes/Conceito.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Conceito"
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "6d56978f193b5875",
   "lastOpenFiles": [
+    "Sem título.md",
     "Sistema e Drops Recorrentes/Conceito.md",
     "Sistema e Drops Recorrentes",
     "Feminino Rage/Agosto 26.md",
@@ -223,7 +220,6 @@
     "Redes Sociais/Rage - Calendário Conteúdo (jul, ago 26).md",
     "Redes Sociais/Rage - Diretriz Editorial.md",
     "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - Satisfy Running.md",
-    "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - Ten Thousand.md",
     "Pesquisas - marcas, estratégias, etc",
     "RAGE/Estrutura peças, análises e preços.canvas"
   ]
