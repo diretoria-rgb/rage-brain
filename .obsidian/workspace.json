@@ -11,10 +11,14 @@
             "id": "6d56978f193b5875",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sem título"
             }
           }
         ]
@@ -182,8 +186,8 @@
   },
   "active": "6d56978f193b5875",
   "lastOpenFiles": [
-    "Sem título.md",
     "Sistema e Drops Recorrentes/Conceito.md",
+    "Sem título.md",
     "Sistema e Drops Recorrentes",
     "Feminino Rage/Agosto 26.md",
     "Feminino Rage/Planilha Drop Agosto 2026.md",
