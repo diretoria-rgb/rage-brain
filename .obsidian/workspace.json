@@ -11,10 +11,14 @@
             "id": "ca71924df19f143d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sistema e Drops Recorrentes/Conceito.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Conceito"
             }
           }
         ]
@@ -182,6 +186,8 @@
   },
   "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
+    "Sistema e Drops Recorrentes/Conceito.md",
+    "Sistema e Drops Recorrentes",
     "Feminino Rage/Agosto 26.md",
     "Feminino Rage/Planilha Drop Agosto 2026.md",
     "Feminino Rage",
@@ -218,9 +224,7 @@
     "Redes Sociais/Rage - Diretriz Editorial.md",
     "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - Satisfy Running.md",
     "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - Ten Thousand.md",
-    "Pesquisas - marcas, estratégias, etc/Pesquisa de marcas - ASRV.md",
     "Pesquisas - marcas, estratégias, etc",
-    "Redes Sociais",
     "RAGE/Estrutura peças, análises e preços.canvas"
   ]
 }
