@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a143cfb028a2d5a4",
+        "id": "f2b1ff32147cfece",
         "type": "tabs",
         "children": [
           {
-            "id": "6d56978f193b5875",
+            "id": "0d5174c9b8741e0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d56978f193b5875",
+  "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
-    "Sistema e Drops Recorrentes/Conceito.md",
     "Sem título.md",
+    "Sistema e Drops Recorrentes/Conceito.md",
     "Sistema e Drops Recorrentes",
     "Feminino Rage/Agosto 26.md",
     "Feminino Rage/Planilha Drop Agosto 2026.md",
