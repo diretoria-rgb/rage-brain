@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b1ff32147cfece",
+        "id": "fa78d3f73605391f",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5174c9b8741e0c",
+            "id": "0c9e2226ec1c385e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feminino Rage/Agosto 26.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agosto 26"
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,13 +180,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d5174c9b8741e0c",
+  "active": "5bac4dc515579cd7",
   "lastOpenFiles": [
+    "RAGE/Marketing.md",
+    "RAGE/Manifesto Rage.md",
+    "RAGE/Logos Rage.md",
+    "RAGE/Ideia de Embalagem.md",
+    "RAGE/Gastos - coleção preta - Shorts.md",
+    "RAGE/Gastos - coleção preta - Camisetas.md",
     "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
+    "Feminino Rage/Agosto 26.md",
     "Sistema e Drops Recorrentes/Conceito.md",
     "Sem título.md",
     "Sistema e Drops Recorrentes",
-    "Feminino Rage/Agosto 26.md",
     "Feminino Rage/Planilha Drop Agosto 2026.md",
     "Feminino Rage",
     "E-mails Rage/Flow 01 - Email 01.md",
@@ -202,23 +204,17 @@
     "Drop Agosto Rage 2026 (1).xlsx",
     "Feminino Rage",
     "RAGE/Estratégia para venda de estoque parado.md",
-    "RAGE/Gastos - coleção preta - Camisetas.md",
-    "RAGE/Gastos - coleção preta - Shorts.md",
     "RAGE/Eventos Futuros Rage.md",
     "RAGE/Rage logo branco.png",
     "RAGE/Rage logo preto.png",
     "Rage Emails Systems/Newsletter - Diretriz Editorial.md",
     "Rage Emails Systems/Cronograma de E-mails - Venda Direta (Bravo).md",
-    "RAGE/Logos Rage.md",
     "RAGE/Sistema de Gameficação (ainda apenas na ideia).md",
     "RAGE/Rage Performance.md",
     "RAGE/Roadmap da marca.canvas",
     "RAGE/Parceiros Rage.md",
     "RAGE/Nomes das peças, Etiquetas, Tecidos.md",
     "RAGE/Modelagem, roupas, drops.md",
-    "RAGE/Marketing.md",
-    "RAGE/Manifesto Rage.md",
-    "RAGE/Ideia de Embalagem.md",
     "RAGE/Estrutura de características das peças.md",
     "RAGE/Estratégia para venda de peças piloto.md",
     "Redes Sociais/Rage - Calendário Conteúdo (jul, ago 26).md",
