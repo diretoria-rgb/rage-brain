@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c9e2226ec1c385e",
+            "id": "61913cf11f2a953c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drop Agosto Rage/Agosto 26.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agosto 26"
-            }
-          },
-          {
-            "id": "44eb7c1df3ac9e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drop Agosto Rage/Sem título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,9 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "61913cf11f2a953c",
   "lastOpenFiles": [
-    "Drop Agosto Rage/Sem título.md",
+    "Drop Agosto Rage/Atualização 24 set.md",
     "Drop Agosto Rage/Agosto 26.md",
     "RAGE/Modelagem, roupas, drops.md",
     "RAGE/Marketing.md",
