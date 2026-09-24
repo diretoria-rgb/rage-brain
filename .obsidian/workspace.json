@@ -11,10 +11,14 @@
             "id": "0d5174c9b8741e0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAGE/Análise Financeira - Coleção Preta (maio 2026).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Análise Financeira - Coleção Preta (maio 2026)"
             }
           }
         ]
@@ -180,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bac4dc515579cd7",
+  "active": "0d5174c9b8741e0c",
   "lastOpenFiles": [
-    "Sem título.md",
     "Sistema e Drops Recorrentes/Conceito.md",
+    "Sem título.md",
     "Sistema e Drops Recorrentes",
     "Feminino Rage/Agosto 26.md",
     "Feminino Rage/Planilha Drop Agosto 2026.md",

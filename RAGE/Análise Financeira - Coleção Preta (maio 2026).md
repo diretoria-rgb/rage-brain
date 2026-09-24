@@ -51,14 +51,14 @@
 
 ### Resumo Produção
 
-| Peça | Qtd | Custo total | Custo/un |
-|---|---|---|---|
-| Bravo Training Shorts | 36 | R$ 1.643,05 | R$ 45,64 |
-| Rifte Conditioning Shorts | 36 | R$ 1.654,65 | R$ 45,96 |
-| Malleus Raglan | 20 | R$ 872,07 | R$ 43,60 |
-| Velite Tank Top | 26 | R$ 1.229,16 | R$ 47,28 |
-| Scudo Tank Top | 26 | R$ 1.116,36 | R$ 42,94 |
-| **TOTAL** | **144** | **R$ 6.515,28** | **R$ 45,25 média** |
+| Peça                      | Qtd     | Custo total     | Custo/un           |
+| ------------------------- | ------- | --------------- | ------------------ |
+| Bravo Training Shorts     | 36      | R$ 1.643,05     | R$ 45,64           |
+| Rifte Conditioning Shorts | 36      | R$ 1.654,65     | R$ 45,96           |
+| Malleus Raglan            | 20      | R$ 872,07       | R$ 43,60           |
+| Velite Tank Top           | 26      | R$ 1.229,16     | R$ 47,28           |
+| Scudo Tank Top            | 26      | R$ 1.116,36     | R$ 42,94           |
+| **TOTAL**                 | **144** | **R$ 6.515,28** | **R$ 45,25 média** |
 
 ---
 
